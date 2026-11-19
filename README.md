@@ -225,5 +225,5 @@ Por meio de simulações, comparações e recomendações, o projeto procura inc
 
 ## 🔗 Links do projeto
 
-- **Repositório GitHub:** [Inserir link do repositório]
-- **Vídeo de demonstração:** [Inserir link do YouTube]
+- **Repositório GitHub:** https://github.com/BragaBibi/Citizen-Assist-AI_SERS
+- **Vídeo de demonstração:** [https://youtu.be/jW9Pc8_yokw](https://youtu.be/jW9Pc8_yokw)
